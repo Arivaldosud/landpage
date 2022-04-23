@@ -1,0 +1,161 @@
+body{
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+}
+
+.top{
+    font-size: 16px;
+}
+
+.logo-header {
+    position: absolute;
+    width: 80px;
+    height: 77px;
+    left: 87px;
+    top: 15px;
+}
+
+.barra-icons-sociais {
+    height: 53px;
+    background-color: #756438;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    letter-spacing: 28px;
+    color: #531607;
+    font-size: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    } 
+
+
+.icon-share2, .icon-whatsapp, .icon-instagram, .icon-youtube2, .icon-facebook2{
+    color:#531607;
+}
+
+
+
+
+section.header-title{
+    padding: 15px;
+    background-size: cover;
+    
+}
+
+
+h1{
+    color: #D9BA6A;
+    font-size: 1.22em;
+    text-align: center;
+    margin-top: 1.40em;
+}
+
+h2{
+    color: #BDBCBC;
+    font-size: 0.9em;
+    margin: .8em auto 0.8em auto;
+    text-align: center;
+    font-weight: 300;
+}
+
+#p-header{
+    color: #e6e6e6;
+    margin: -20px 99px 44px 99px;
+    text-align: center;
+    font-weight: 320;
+    font-size: 22px;
+}
+
+.area-button-cta{
+    min-height: 244px;
+    background-color: #0C0F11;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.btn-cta{
+    color: #f0efe8;
+    background: #FF6B01;
+    box-shadow: 0px 4px 12px -2px rgba(251, 244, 244, 0.92);
+    border-radius: 64px;
+    width: 250px;
+    height: 50px;
+    left: 56px;
+    top: 500px;
+    font-size: 20px;
+    margin-top: -105px;
+    
+
+}
+
+.container-beneficios-muay-thai{
+    min-height: 91px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.mini-banner-muay-thai{
+    width: 320px;
+    height: 87px;
+    left: 65px;
+    top: 708px;
+    margin-top: -57px;
+    padding: 5px 10px 5px 10px;    
+
+    background: #EFEFEF;
+    border: 0.03px solid #0C0F11;
+    border-radius: 5px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #4E4225;
+}
+
+h3{
+    text-align: center;
+    color: #5A4D2C;
+    font-size: 26px;
+}
+
+.beneficios-significados{
+    text-align: center;
+   }
+
+   .beneficios-significados-format{
+       margin: 10px 50px 40px 50px;
+   }
+
+   .beneficios-significados-format .title{
+       color: #C15405;
+       font-weight: 400;
+       font-size: 25px;
+   }
+
+   .texto{
+    color: #49260D;
+    font-size: 20px;
+   }
+
+   #calculo {
+       font-size: 2rem;
+   }
+
+  /* .aula-experimental{
+       color: #8F6802;
+       font-size: 31px;
+       font-weight: 400;
+       text-align: center;
+       margin: 10px 80px 40px 80px;
+   }*/
