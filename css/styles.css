@@ -3,10 +3,6 @@ body{
     font-size: 12px;
 }
 
-.top{
-    font-size: 16px;
-}
-
 .logo-header {
     position: absolute;
     width: 80px;
@@ -37,26 +33,24 @@ a{
 }
 
 
-
-
-section.header-title{
+.header-title{
     padding: 15px;
     background-size: cover;
-    
+    min-height:202px;
 }
 
 
 h1{
     color: #D9BA6A;
-    font-size: 1.22em;
+    font-size: 30px;
     text-align: center;
-    margin-top: 1.40em;
+    margin-top: 61px;
 }
 
 h2{
     color: #BDBCBC;
-    font-size: 0.9em;
-    margin: .8em auto 0.8em auto;
+    font-size: 22px;
+    margin: 18px 69px 44px 69px;
     text-align: center;
     font-weight: 300;
 }
@@ -126,7 +120,10 @@ h2{
 h3{
     text-align: center;
     color: #5A4D2C;
-    font-size: 26px;
+    font-size: 22px;
+    padding-top: -80px;
+     padding-bottom: 30px;
+    
 }
 
 .beneficios-significados{
@@ -140,12 +137,12 @@ h3{
    .beneficios-significados-format .title{
        color: #C15405;
        font-weight: 400;
-       font-size: 25px;
+       font-size: 19px;
    }
 
    .texto{
     color: #49260D;
-    font-size: 20px;
+    font-size: 18px;
    }
 
    #calculo {
