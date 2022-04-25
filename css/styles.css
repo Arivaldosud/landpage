@@ -161,17 +161,21 @@ h3{
 
    .positon-img{
        position: relative;
-       top: 1.8rem;
-       left: 1.4rem;
+       top: -0.8rem;
+       left: 2.4rem;
    }
 
    .container-p{
        display: flex;
        align-items: center;
        justify-content: center;
-       font-size: 1.2rem;
        font-weight: 500;
+       padding-top: 0.8rem;
 
+   }
+
+   .container-p p{
+        font-size: 1.2rem;
    }
 
    
