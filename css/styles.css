@@ -32,8 +32,8 @@ a{
     color:#531607;
 }
 
-
 .header-mobile{
+    background-image: url(../img/imagem_head.png);
     padding: 15px;
     background-size: cover;
     min-height:100%;
@@ -179,15 +179,7 @@ h3{
         color: #201f1d;
    }
 
-   
-
-      
-       
-
-   
-   
-
-
+  
   /* .aula-experimental{
        color: #8F6802;
        font-size: 31px;
