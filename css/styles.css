@@ -179,7 +179,13 @@ h3{
         color: #201f1d;
    }
 
-  
+   @media (max-width: 767px) { 
+    #p-header {
+        display: none;
+    }
+    }
+
+   
   /* .aula-experimental{
        color: #8F6802;
        font-size: 31px;
