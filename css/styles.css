@@ -33,10 +33,10 @@ a{
 }
 
 
-.header-title{
+.header-mobile{
     padding: 15px;
     background-size: cover;
-    min-height:202px;
+    min-height:100%;
 }
 
 
@@ -155,7 +155,7 @@ h3{
 
    .img-footer img{
        height: 2.90rem;
-       width: 2.80rem;
+       width: 3.0rem;
             
    }
 
@@ -180,6 +180,13 @@ h3{
    }
 
    
+
+      
+       
+
+   
+   
+
 
   /* .aula-experimental{
        color: #8F6802;
